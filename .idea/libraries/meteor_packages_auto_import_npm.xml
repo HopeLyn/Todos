@@ -4690,6 +4690,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/forIn.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/forEach.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/zip.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/invertBy.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/core.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/_cloneRegExp.js" />
@@ -9602,6 +9603,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/forIn.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/forEach.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/zip.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/invertBy.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/core.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/lodash/_cloneRegExp.js" />
